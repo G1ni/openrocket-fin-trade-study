@@ -4,7 +4,7 @@ Parametric analysis evaluating rocket fin sweep angle vs. apogee altitude and st
 # OpenRocket Fin Sweep Parametric Trade Study
 
 ## Project Overview
-This project is a aerodynamic trade study to evaluate the impact of fin sweep angle on rocket flight performance and stability. Using OpenRocket for flight dynamics simulation and Python for data processing and visualization, this study identifies the optimal fin geometry that maximizes apogee altitude while compling to minimum static stability safety thresholds 1.5
+This project is a aerodynamic trade study to evaluate the impact of fin sweep angle on rocket flight performance and stability. Using OpenRocket for flight dynamics simulation and Python for data processing and visualization, this study identifies the optimal fin geometry that maximizes apogee altitude while compling to minimum static stability safety thresholds ($\ge 1.5\text{ calibers}$).
 
 ![Fin Sweep Trade Study Plot](fin_sweep_trade_study.png)
 
